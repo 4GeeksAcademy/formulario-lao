@@ -1,0 +1,30 @@
+.container-2 {
+  width: 70%;
+  margin: auto;
+}
+
+.msg {
+  display: flex;
+  width: 250px;
+  height: 100px;
+}
+
+.tarjeta {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.texto {
+  width: 50%;
+  height: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.mensaje {
+  display: flex;
+
+  width: 250px;
+  height: 100px;
+}
